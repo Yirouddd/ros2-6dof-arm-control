@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='ireneros',
-    maintainer_email='ireneros@todo.todo',
+    maintainer_email='dongyirou.uk@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     extras_require={
@@ -24,7 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'arm_joint_node = arm_pkg.arm_joint_node:main'
+            'arm_joint_node = arm_pkg.arm_joint_node:main',
         ],
     },
 )

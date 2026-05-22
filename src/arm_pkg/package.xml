@@ -4,8 +4,11 @@
   <name>arm_pkg</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="ireneros@todo.todo">ireneros</maintainer>
+  <maintainer email="dongyirou.uk@gmail.com">ireneros</maintainer>
   <license>TODO: License declaration</license>
+
+  <depend>rclpy</depend>
+  <depend>arm_msg</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
