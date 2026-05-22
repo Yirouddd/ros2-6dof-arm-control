@@ -42,8 +42,7 @@ dev_workspace/
 │   ├── arm_msg/        # Custom ROS2 interfaces
 │   ├── arm_pkg/        # Arm control nodes
 │   ├── vision_pkg/     # Vision and OpenCV nodes
-│   ├── AI_pkg/         # AI / LLM integration
-│   └── turtle_pkg/     # ROS2 practice package
+│   └── AI_pkg/         # AI / LLM integration
 │
 ├── build/
 ├── install/
